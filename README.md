@@ -16,7 +16,7 @@
 - 💼 Desenvolvedor full stack na **Ironbug**, em Maringá-PR
 - 🏗️ Construo sistemas **SaaS multiempresa** com C#, ASP.NET Core, EF Core e AngularJS
 - 🔍 Gosto de entender sistemas por dentro: já fiz **engenharia reversa** de dois protocolos de jogos
-- 🧠 Mantenho uma base de conhecimento no **Obsidian** que documenta 16 projetos
+- 🧠 Criei uma **rede neural** de anotações bem ampla no Obsidian, para uso próprio
 - 🌱 Sempre aprendendo algo novo para virar um programador melhor
 
 ---
@@ -38,14 +38,13 @@
 | --- | --- | --- |
 | **PPORise** | Bot open-source para o PokeNexus, modernizado para o .NET 10, com scripts em Lua | C#, .NET 10, WPF, Lua |
 | **PBORise** | Bot para o Pokémon Blaze Online, com o protocolo descoberto por engenharia reversa e IA de batalha via PokeAPI | C#, .NET 10, WebSocket, Protobuf |
-| **Base de conhecimento** | Grafo de 136 notas ligadas no Obsidian documentando 16 projetos, gerado por scripts | Obsidian, Bash, Perl |
+| **Rede neural** | Uma rede de anotações bem ampla, feita para uso próprio | Obsidian |
 
 ---
 
 ### 🔭 Neste momento
 
 - ⚙️ Mapeando o que falta do protocolo do **PBORise**: PC, loja, pesca e chat
-- 🧩 Ligando cada projeto novo à minha rede de anotações no Obsidian
 
 ---
 
@@ -54,7 +53,7 @@
 ```csharp
 public class JoaoMelo : Developer
 {
-    public string Local => "Maringá, PR 🇧🇷";
+    public string Local => "Maringá, PR - Brasil";
     public string Cargo => "Full Stack Developer @ Ironbug";
 
     public string[] Stack =>
@@ -66,7 +65,6 @@ public class JoaoMelo : Developer
     public string[] Curiosidades =>
     [
         "Descobri o protocolo de um jogo só observando o tráfego da minha conta",
-        "Documento meus projetos num grafo do Obsidian com 136 notas ligadas",
         "Comecei como estagiário e virei júnior em pouco mais de um ano"
     ];
 
