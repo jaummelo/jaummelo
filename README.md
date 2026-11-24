@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:8B5CF6&height=180&section=header&text=João%20Melo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20.NET&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:8B5CF6&height=180&section=header&text=João%20Melo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=C%23+%7C+ASP.NET+Core+%7C+Entity+Framework+Core;Sistemas+SaaS+multiempresa;Engenharia+reversa+de+protocolos;Sempre+aprendendo+algo+novo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=C%23+%7C+ASP.NET+Core+%7C+Entity+Framework+Core;SaaS+platforms+and+custom+systems;Protocol+reverse+engineering;Always+learning+something+new" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-melo-5a0004240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jpsmelo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -11,17 +11,17 @@
 
 ---
 
-### 👋 Sobre mim
+### 👋 About me
 
-- 💼 Desenvolvedor full stack na **Ironbug**, em Maringá-PR
-- 🏗️ Construo sistemas **SaaS multiempresa** com C#, ASP.NET Core, EF Core e AngularJS
-- 🔍 Gosto de entender sistemas por dentro: já fiz **engenharia reversa** de dois protocolos de jogos
-- 🧠 Criei uma **rede neural** de anotações bem ampla no Obsidian, para uso próprio
-- 🌱 Sempre aprendendo algo novo para virar um programador melhor
+- 💼 Full stack developer at **Ironbug**, in Maringá, Brazil
+- 🏗️ I build **SaaS platforms** and **custom systems** for clients with C#, ASP.NET Core, EF Core and AngularJS
+- 🔍 I like to understand how systems work inside: I've **reverse-engineered** two game protocols
+- 🧠 I built a broad **neural network** of notes in Obsidian for my own use
+- 🌱 Always learning something new to become a better programmer
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tech stack
 
 <div align="center">
 
@@ -32,29 +32,29 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Featured projects
 
-| Projeto | O que é | Stack |
+| Project | What it is | Stack |
 | --- | --- | --- |
-| **PPORise** | Bot open-source para o PokeNexus, modernizado para o .NET 10, com scripts em Lua | C#, .NET 10, WPF, Lua |
-| **PBORise** | Bot para o Pokémon Blaze Online, com o protocolo descoberto por engenharia reversa e IA de batalha via PokeAPI | C#, .NET 10, WebSocket, Protobuf |
-| **Rede neural** | Uma rede de anotações bem ampla, feita para uso próprio | Obsidian |
+| **PPORise** | Open-source bot for PokeNexus, modernized to .NET 10, with Lua scripting | C#, .NET 10, WPF, Lua |
+| **PBORise** | Bot for Pokémon Blaze Online, with a reverse-engineered protocol and a battle AI powered by PokeAPI | C#, .NET 10, WebSocket, Protobuf |
+| **Neural network** | A broad network of notes, built for my own use | Obsidian |
 
 ---
 
-### 🔭 Neste momento
+### 🔭 Right now
 
-- ⚙️ Mapeando o que falta do protocolo do **PBORise**: PC, loja, pesca e chat
+- ⚙️ Mapping what's left of the **PBORise** protocol: PC, shop, fishing and chat
 
 ---
 
-### 💻 Em código
+### 💻 In code
 
 ```csharp
 public class JoaoMelo : Developer
 {
-    public string Local => "Maringá, PR - Brasil";
-    public string Cargo => "Full Stack Developer @ Ironbug";
+    public string Location => "Maringá, PR - Brazil";
+    public string Role => "Full Stack Developer @ Ironbug";
 
     public string[] Stack =>
     [
@@ -62,13 +62,13 @@ public class JoaoMelo : Developer
         "AngularJS", "MySQL", "SQL Server", "Lua"
     ];
 
-    public string[] Curiosidades =>
+    public string[] FunFacts =>
     [
-        "Descobri o protocolo de um jogo só observando o tráfego da minha conta",
-        "Comecei como estagiário e virei júnior em pouco mais de um ano"
+        "Figured out a game's protocol just by watching my own account's traffic",
+        "Started as an intern and became a junior developer in just over a year"
     ];
 
-    public string Objetivo() => "Aprender algo novo todo dia e virar um programador melhor";
+    public string Goal() => "Learn something new every day and become a better programmer";
 }
 ```
 
