@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jaummelo/jaummelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:8B5CF6&height=180&section=header&text=João%20Melo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20.NET&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=C%23+%7C+ASP.NET+Core+%7C+Entity+Framework+Core;Sistemas+SaaS+multiempresa;Engenharia+reversa+de+protocolos;Sempre+aprendendo+algo+novo" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/jo%C3%A3o-melo-5a0004240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jpsmelo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+### 👋 Sobre mim
+
+- 💼 Desenvolvedor full stack na **Ironbug**, em Maringá-PR
+- 🏗️ Construo sistemas **SaaS multiempresa** com C#, ASP.NET Core, EF Core e AngularJS
+- 🔍 Gosto de entender sistemas por dentro: já fiz **engenharia reversa** de dois protocolos de jogos
+- 🧠 Mantenho uma base de conhecimento no **Obsidian** que documenta 16 projetos
+- 🌱 Sempre aprendendo algo novo para virar um programador melhor
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,vue,bootstrap,jquery&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,gitlab,lua,obsidian&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| **PPORise** | Bot open-source para o PokeNexus, modernizado para o .NET 10, com scripts em Lua | C#, .NET 10, WPF, Lua |
+| **PBORise** | Bot para o Pokémon Blaze Online, com o protocolo descoberto por engenharia reversa e IA de batalha via PokeAPI | C#, .NET 10, WebSocket, Protobuf |
+| **Base de conhecimento** | Grafo de 136 notas ligadas no Obsidian documentando 16 projetos, gerado por scripts | Obsidian, Bash, Perl |
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaummelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaummelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaummelo&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=100&section=footer" width="100%"/>
