@@ -42,15 +42,36 @@
 
 ---
 
-### 📊 Estatísticas
+### 🔭 Neste momento
 
-<div align="center">
+- ⚙️ Mapeando o que falta do protocolo do **PBORise**: PC, loja, pesca e chat
+- 🧩 Ligando cada projeto novo à minha rede de anotações no Obsidian
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaummelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaummelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaummelo&theme=tokyonight&hide_border=true" />
+### 💻 Em código
 
-</div>
+```csharp
+public class JoaoMelo : Developer
+{
+    public string Local => "Maringá, PR 🇧🇷";
+    public string Cargo => "Full Stack Developer @ Ironbug";
+
+    public string[] Stack =>
+    [
+        "C#", ".NET", "ASP.NET Core", "Entity Framework Core",
+        "AngularJS", "MySQL", "SQL Server", "Lua"
+    ];
+
+    public string[] Curiosidades =>
+    [
+        "Descobri o protocolo de um jogo só observando o tráfego da minha conta",
+        "Documento meus projetos num grafo do Obsidian com 136 notas ligadas",
+        "Comecei como estagiário e virei júnior em pouco mais de um ano"
+    ];
+
+    public string Objetivo() => "Aprender algo novo todo dia e virar um programador melhor";
+}
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=100&section=footer" width="100%"/>
